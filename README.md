@@ -1,16 +1,26 @@
 ### Hi there 👋, I'm FuriousFoxGG.
 
-<!--
-**FuriousF0xGG/FuriousF0xGG** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### About Me
+- Enjoys FiveM
+- Loves to Code
+- Coding in LUA for almost 2 years
+
+### Languages
+⭐⭐⭐ Extremely Knowledgable | ⭐⭐ Intermediate | ⭐ Novice
 
 Here are some ideas to get you started:
+|Language|Proficiency|
+|---|---|
+Lua | ⭐⭐
+Javascript | ⭐
+Python | ⭐
+HTML | ⭐
+CSS | ⭐
+C++ | ⭐
+C# | ⭐
+SQL | ⭐
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+###Current Projects
+- Admin Area Script
+- Core containing all my scripts with configuration
+- Updating AOP and Duty Script
