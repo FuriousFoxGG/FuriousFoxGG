@@ -25,4 +25,4 @@ SQL | ⭐
 - Core containing all my scripts with configuration
 - Updating AOP and Duty Script
 
-[![FuriousFoxGG's Github Status](https://github-readme-stats.vercel.app/api?username=FuriousF0xGG)](https://github.com/anuraghazra/github-readme-stats)
+[![FuriousFoxGG's Github Status](https://github-readme-stats.vercel.app/api?username=FuriousF0xGG&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
