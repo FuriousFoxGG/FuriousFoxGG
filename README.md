@@ -26,8 +26,10 @@ SQL | ⭐
 - Updating AOP and Duty Script
 
 ###Github Status
+
 [![FuriousFoxGG's Github Status](https://github-readme-stats.vercel.app/api?username=FuriousF0xGG&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 
 ###Languages
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FuriousF0xGG&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
