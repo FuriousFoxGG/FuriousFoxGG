@@ -1,8 +1,7 @@
 ### Hi there 👋, I'm FuriousFoxGG.
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=100&pause=1000&color=15F7E6&background=FF000000&width=435&lines=FuriousF0xGG." alt="Typing SVG" /></a>
-<br/><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=100&pause=1000&color=15F7E6&background=FF000000&width=435&lines=FiveM+Developer+%7C+Learning+Lua" alt="Typing SVG" /></a>
-<br/><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=100&pause=1000&color=15F7E6&background=FF000000&width=435&lines=https%3A%2F%2Fdiscord.gg%2FcPSAuJppyr" alt="Typing SVG" /></a>
-
+<a href="https://github.com/FuriousF0xGG"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=100&pause=1000&color=15F7E6&background=FF000000&width=435&lines=FuriousF0xGG." alt="Typing SVG" /></a>
+<br/><a href="https://github.com/FuriousF0xGG"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=100&pause=1000&color=15F7E6&background=FF000000&width=435&lines=FiveM+Developer+%7C+Learning+Lua" alt="Typing SVG" /></a>
+<br/><a href="https://github.com/FuriousF0xGG"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=100&pause=1000&color=15F7E6&background=FF000000&width=435&lines=https%3A%2F%2Fdiscord.gg%2FcPSAuJppyr" alt="Typing SVG" /></a>
 ### About Me
 - Enjoys FiveM
 - Loves to Code
