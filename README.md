@@ -1,4 +1,7 @@
 ### Hi there 👋, I'm FuriousFoxGG.
+<p align="center">
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=100&pause=1000&color=15F7E6&background=FF000000&center=true&width=435&lines=FuriousF0xGG." alt="Typing SVG" /></a>
+  </p>
 
 ### About Me
 - Enjoys FiveM
