@@ -9,8 +9,8 @@
 <p align="center"> 
 	<img src="https://komarev.com/ghpvc/?username=FuriousF0xGG&label=Profile%20views&color=0047AB&style=plastic?" alt="7oSkaaa" height=25px, width=160px/> 
 	<!---
-		<a href = "https://commits.top/egypt.html" target="_blank">
-			<img src="https://aktive.tk/egypt/7oSkaaa?color=red" alt="Most Active Users" target="_blank" height=25px, width=250px/> 
+		<a href = "https://commits.top/uk.html" target="_blank">
+			<img src="https://aktive.tk/uk/FuriousF0xGG?color=red" alt="Most Active Users" target="_blank" height=25px, width=250px/> 
 		</a>
 	-->
 	<a href = "https://commits.top/uk.html" target="_blank">
@@ -197,9 +197,6 @@
       		<img src="https://github-readme-stats.vercel.app/api/pin/?username=FuriousF0xGG&repo=M-Duty&theme=tokyonight" alt="GitHub Stats" />
     	</a>
 	<a href="https://github.com/FuriousF0xGG/M-VehBlacklist">
-      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=FuriousF0xGG&repo=M-VehBlacklist&theme=tokyonight" alt="GitHub Stats" />
-    	</a>
-	<a href="https://github.com/FuriousF0xGG/M-DrawText">
       		<img src="https://github-readme-stats.vercel.app/api/pin/?username=FuriousF0xGG&repo=M-VehBlacklist&theme=tokyonight" alt="GitHub Stats" />
     	</a>
   </p>
