@@ -188,19 +188,19 @@
 <div>
   <p align="center">
 	<a href="https://github.com/FuriousF0xGG/M-AOP">
-      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=FuriousF0xGG&repo=CP-Calendar&theme=tokyonight" alt="GitHub Stats" />
+      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=FuriousF0xGG&repo=M-AOP&theme=tokyonight" alt="GitHub Stats" />
     	</a>
 	<a href="https://github.com/FuriousF0xGG/M-Teleport">
-      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=FuriousF0xGG&repo=Codeforces-Friends-Script&theme=tokyonight" alt="GitHub Stats" />
+      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=FuriousF0xGG&repo=M-Teleport&theme=tokyonight" alt="GitHub Stats" />
     	</a>
 	<a href="https://github.com/FuriousF0xGG/M-Duty">
-      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=FuriousF0xGG&repo=vJudge-Board-Scrapper&theme=tokyonight" alt="GitHub Stats" />
+      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=FuriousF0xGG&repo=M-Duty&theme=tokyonight" alt="GitHub Stats" />
     	</a>
 	<a href="https://github.com/FuriousF0xGG/M-VehBlacklist">
-      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=FuriousF0xGG&repo=CP-Templates-Snippets&theme=tokyonight" alt="GitHub Stats" />
+      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=FuriousF0xGG&repo=M-VehBlacklist&theme=tokyonight" alt="GitHub Stats" />
     	</a>
 	<a href="https://github.com/FuriousF0xGG/M-DrawText">
-      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=FuriousF0xGG&repo=Udemy-Website&theme=tokyonight" alt="GitHub Stats" />
+      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=FuriousF0xGG&repo=M-VehBlacklist&theme=tokyonight" alt="GitHub Stats" />
     	</a>
   </p>
 </div>
