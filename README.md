@@ -71,9 +71,9 @@
 
 ----
 	
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=7oskaaa&layout=compact&theme=tokyonight&column=4&margin-w=15&margin-h=15" alt="7oskaaa" /></a> </p>
+<p align="center"> <a href="https://github.com/FuriousF0xGG/FuriousF0xGG"><img src="https://github-profile-trophy.vercel.app/?username=FuriousF0xGG&layout=compact&theme=tokyonight&column=4&margin-w=15&margin-h=15" alt="FuriousF0xGG" /></a> </p>
 
-[![@7oskaa's Holopin board](https://holopin.io/api/user/board?user=7oskaa)](https://holopin.io/@7oskaa)
+[![@FuriousF0xGG's Holopin board](https://holopin.io/api/user/board?user=FuriousF0xGG)](https://holopin.io/@FuriousF0xGG)
 	
 </details>
 	
