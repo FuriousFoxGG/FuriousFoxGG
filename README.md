@@ -6,7 +6,7 @@
 <br>
 
 <p align="center"> 
-	<img src="https://komarev.com/ghpvc/?username=7oSkaaa&label=Profile%20views&color=555555&labelColor=000000&style=for-the-badge" alt="7oSkaaa" width=19.40%/>
+	<img src="https://komarev.com/ghpvc/?username=FuriousF0xGG&label=Profile%20views&color=555555&labelColor=000000&style=for-the-badge" alt="FuriousF0xGG" width=19.40%/>
 
 </p>
 
@@ -31,7 +31,7 @@
 ---
 
 <p align = "center">
-	<a href="https://github.com/piyushsuthar/github-readme-quotes"> <img alt = "Quote" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&animation=grow_out_in&quoteCategory=programming">
+	<a href="https://github.com/FuriousF0xGG/FuriousF0xGG"> <img alt = "Quote" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&animation=grow_out_in&quoteCategory=programming">
 </p>
 
 ## <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Statistics.gif?raw=true" width = 50px>  </picture> Github Stats
@@ -49,7 +49,7 @@
 ----
 	
 <p align="center">
-    <a href="https://github.com/anuraghazra/github-readme-stats">
+    <a href="https://github.com/FuriousF0xGG/FuriousF0xGG">
 	    <img alt="FuriousF0xGG's Github Stats" src="https://github-readme-stats.vercel.app/api?username=FuriousF0xGG&show_icons=true&count_private=true&locale=en&theme=tokyonight&layout=compact" height="230px"/></a>
 	  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=FuriousF0xGG&langs_count=10&show_icons=true&locale=en&theme=tokyonight" alt="FuriousF0xGG" height="230px"/>
 <br/>
