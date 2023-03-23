@@ -194,7 +194,7 @@
       		<img src="https://github-readme-stats.vercel.app/api/pin/?username=FuriousF0xGG&repo=M-Teleport&theme=tokyonight" alt="GitHub Stats" />
     	</a>
 	<a href="https://github.com/FuriousF0xGG/M-Duty">
-      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=FuriousF0xGG&repo=M-Duty&theme=tokyonight" alt="GitHub Stats" />
+      		<img src="[https://github-readme-stats.vercel.app/api/pin/?username=FuriousF0xGG&repo=M-Duty&theme=tokyonight](https://github-readme-stats.vercel.app/api/pin/?username=FuriousF0xGG&repo=M-Duty&theme=tokyonight)" alt="GitHub Stats" />
     	</a>
 	<a href="https://github.com/FuriousF0xGG/M-VehBlacklist">
       		<img src="https://github-readme-stats.vercel.app/api/pin/?username=FuriousF0xGG&repo=M-VehBlacklist&theme=tokyonight" alt="GitHub Stats" />
