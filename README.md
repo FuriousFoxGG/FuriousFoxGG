@@ -95,6 +95,9 @@
 	<a href="https://github.com/FuriousF0xGG/M-VehBlacklist">
       		<img src="https://github-readme-stats.vercel.app/api/pin/?username=FuriousF0xGG&repo=M-VehBlacklist&theme=tokyonight" alt="GitHub Stats" />
     	</a>
+		<a href="https://github.com/FuriousF0xGG/M-Announce">
+      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=FuriousF0xGG&repo=M-Announce&theme=tokyonight" alt="GitHub Stats" />
+    	</a>
   </p>
 </div>
 </details>
